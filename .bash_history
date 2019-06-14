@@ -313,3 +313,105 @@ sudo service jenkins start
 service jenkins status
 cat /var/lib/jenkins/secrets/initialAdminPassword
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ls
+sudo service jenkins start
+cat>ex.java
+cat ex.java
+git add ex.java
+git commit -m "my program"
+git remote add origin https://github.com/mythribhay/devops-traning
+git push origin master
+javac ex.java
+java ex.java
+cat ex.java
+java ex.java
+javac ex.java
+java ex.java
+java ex
+cat > ex.java
+touch ex1.java
+cat >> ex1.java
+javac ex.java
+java ex
+cat >> ex1.java
+touch ex2.java
+cat >> ex2.java
+javac ex.java
+java ex
+javac ex2.java
+vim ex2.java
+javac ex2.java
+
+vim ex2.java
+javac ex2.java
+vim ex2.java
+
+java ex2
+vim ex2.java
+javac ex2.java
+vim ex2.java
+javac ex2.java
+java ex2
+history
+git add ex2.java
+git commit -m "commit"
+git remote add origin https://github.com/mythribhay/devops-traning
+git push origin master
+whereis maven
+where is java
+whereis java
+mvn -version
+cat /var/lib/jenkins/workspace/maven
+cd /var/lib/jenkins/workspace/maven
+ls
+cd target/
+ls
+history
+ls
+vim jenkin
+cat jenkin
+touch jenkins
+touch jenkin
+touch jenkinexample
+cd ....
+cd ..
+touch jenkin
+touch jenkinsex
+sudo jenkinsex
+vi jenkinsex
+touch jenkinsex
+vi jenkinsex
+git init
+git add jenkinsex
+git commit -m "inital "
+git remote add origin https://github.com/mythribhay/devops-traning
+git push origin master
+ls
+git add jenkinsex
+git commit -m "inital "
+vi jenkinsex
+git add jenkinsex
+git commit -m "inital "
+git remote add origin https://github.com/mythribhay/jenkinstest.git
+git push origin master
+git remote add origin https://github.com/mythribhay/jenkinstest.git
+
+git pull origin master
+vi jenkinsex
+git add jenkinsex
+git commit -m "inital "
+git remote add origin https://github.com/mythribhay/jenkinstest.git
+git pull origin master
+git push origin master
+git init
+git push origin master
+
+git commit -m "inital "
+vi jenkinsex
+git add jenkinsex
+git commit -m "inital "
+
+git push origin master
+git add jenkinsex
+git push origin master
+git push -u origin master
