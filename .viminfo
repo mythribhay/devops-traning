@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1560430381,,"wq!"
+|2,0,1560492767,,"wq!"
 :q!
 |2,0,1560428823,,"q!"
 :wq
@@ -71,38 +71,82 @@
 |3,0,36,0,1,0,1560420433," "
 
 # File marks:
-'0  27  0  ~/jenkinsex
-|4,48,27,0,1560430381,"~/jenkinsex"
-'1  24  0  ~/jenkinsex
-|4,49,24,0,1560430237,"~/jenkinsex"
-'2  24  0  ~/jenkinsex
-|4,50,24,0,1560430237,"~/jenkinsex"
-'3  19  0  ~/jenkinsex
-|4,51,19,0,1560429802,"~/jenkinsex"
-'4  19  0  ~/jenkinsex
-|4,52,19,0,1560429802,"~/jenkinsex"
+'0  2  5  ~/hello.txt
+|4,48,2,5,1560492767,"~/hello.txt"
+'1  2  5  ~/hello.txt
+|4,49,2,5,1560492678,"~/hello.txt"
+'2  27  0  ~/jenkinsex
+|4,50,27,0,1560430381,"~/jenkinsex"
+'3  24  0  ~/jenkinsex
+|4,51,24,0,1560430237,"~/jenkinsex"
+'4  24  0  ~/jenkinsex
+|4,52,24,0,1560430237,"~/jenkinsex"
 '5  19  0  ~/jenkinsex
 |4,53,19,0,1560429802,"~/jenkinsex"
 '6  19  0  ~/jenkinsex
 |4,54,19,0,1560429802,"~/jenkinsex"
-'7  20  0  ~/jenkinsex
-|4,55,20,0,1560428942,"~/jenkinsex"
-'8  20  0  ~/jenkinsex
-|4,56,20,0,1560428942,"~/jenkinsex"
+'7  19  0  ~/jenkinsex
+|4,55,19,0,1560429802,"~/jenkinsex"
+'8  19  0  ~/jenkinsex
+|4,56,19,0,1560429802,"~/jenkinsex"
 '9  20  0  ~/jenkinsex
 |4,57,20,0,1560428942,"~/jenkinsex"
 
 # Jumplist (newest first):
+-'  2  5  ~/hello.txt
+|4,39,2,5,1560492767,"~/hello.txt"
+-'  2  5  ~/hello.txt
+|4,39,2,5,1560492678,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1560492664,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1560492664,"~/hello.txt"
+-'  27  0  ~/jenkinsex
+|4,39,27,0,1560430381,"~/jenkinsex"
+-'  27  0  ~/jenkinsex
+|4,39,27,0,1560430381,"~/jenkinsex"
+-'  27  0  ~/jenkinsex
+|4,39,27,0,1560430381,"~/jenkinsex"
 -'  27  0  ~/jenkinsex
 |4,39,27,0,1560430381,"~/jenkinsex"
 -'  24  0  ~/jenkinsex
 |4,39,24,0,1560430375,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430375,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430375,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430375,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430237,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430237,"~/jenkinsex"
+-'  24  0  ~/jenkinsex
+|4,39,24,0,1560430237,"~/jenkinsex"
 -'  24  0  ~/jenkinsex
 |4,39,24,0,1560430237,"~/jenkinsex"
 -'  19  0  ~/jenkinsex
 |4,39,19,0,1560430228,"~/jenkinsex"
 -'  19  0  ~/jenkinsex
 |4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560430228,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560429802,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560429802,"~/jenkinsex"
+-'  19  0  ~/jenkinsex
+|4,39,19,0,1560429802,"~/jenkinsex"
 -'  19  0  ~/jenkinsex
 |4,39,19,0,1560429802,"~/jenkinsex"
 -'  20  0  ~/jenkinsex
@@ -111,6 +155,48 @@
 |4,39,20,0,1560428942,"~/jenkinsex"
 -'  20  0  ~/jenkinsex
 |4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  20  0  ~/jenkinsex
+|4,39,20,0,1560428942,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
+-'  1  0  ~/jenkinsex
+|4,39,1,0,1560428911,"~/jenkinsex"
 -'  1  0  ~/jenkinsex
 |4,39,1,0,1560428911,"~/jenkinsex"
 -'  1  0  ~/jenkinsex
@@ -151,150 +237,71 @@
 |4,39,1,10,1560428823,"/jenkinsex"
 -'  1  10  /jenkinsex
 |4,39,1,10,1560428823,"/jenkinsex"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  20  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,20,0,1560428671,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  1  0  /var/lib/jenkins/workspace/maven/target/jenkin
-|4,39,1,0,1560428631,"/var/lib/jenkins/workspace/maven/target/jenkin"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
--'  3  0  ~/ex2.java
-|4,39,3,0,1560420599,"~/ex2.java"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
+-'  1  10  /jenkinsex
+|4,39,1,10,1560428823,"/jenkinsex"
 
 # History of marks within files (newest to oldest):
+
+> ~/hello.txt
+	*	1560492762	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
 
 > ~/jenkinsex
 	*	1560430379	0
